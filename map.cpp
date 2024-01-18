@@ -30,3 +30,12 @@ int main()
     //we have a multi-map which allows you to store the same key and value
     //pair multiple times
     //unordered_map
+
+    cbegin() – it refers to the first element of the map.
+    cend() – it refers to the theoretical element after the last element of the map.
+    rbegin() – it points to the last element of the map.
+    rend() – it points to the theoretical element before the first element of the map.
+    emplace() – to insert an element in the map.
+    max_size() – the maximum elements a map can hold.
+
+}
