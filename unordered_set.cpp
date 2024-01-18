@@ -12,6 +12,9 @@ int main(){
 	//to insert an element in the unordered set
 	s.insert(1);
 	s.insert(2);
+	
+	//same as insert but it is faster
+	s.emplace_back(3);
 
 	//return an iterator pointing to the first element in the unordered set
 	s.begin();
