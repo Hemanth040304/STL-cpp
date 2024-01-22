@@ -1,3 +1,10 @@
+/*insert(): The run time of this method is O(1)
+
+find(): The run time of this method is O(1)
+
+size(): The run time of this method is O(1)*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
