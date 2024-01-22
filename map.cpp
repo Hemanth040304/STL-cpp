@@ -1,3 +1,16 @@
+/*insert(): The run time of this method is O(log n),
+insertion in map is done using make_pair
+
+find(): The run time of this method is O(log n),
+it returns pair of key and value to us.
+
+size(): The run time of this method is O(1)
+
+[] bracket operators: The run time of this method is O(log n),
+if the key exists, then it returns reference to the value.
+If the key doesn’t exist, then it will do an insertion in the map.*/
+
+
 #include<bits.stdc++.h>
 using namespace std;
 int main()
