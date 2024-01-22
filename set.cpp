@@ -1,3 +1,10 @@
+/*insert(): The run time of this method is O(log n)
+
+find(): The run time of this method is O(log n)
+
+size(): The run time of this method is O(1)*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
